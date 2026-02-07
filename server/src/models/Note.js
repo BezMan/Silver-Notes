@@ -29,7 +29,7 @@ const NoteSchema = new mongoose.Schema({
   priority: {
     type: String,
     enum: ['low', 'medium', 'high'],
-    default: 'low'
+    default: 'medium'
   }
 }, {
   timestamps: true // Adds createdAt and updatedAt
