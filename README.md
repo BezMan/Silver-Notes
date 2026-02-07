@@ -1,6 +1,6 @@
 # Silver Notes 📝
 
-A premium, Google Keep-inspired note-taking application built with the MERN stack (MongoDB, Express, React, Node.js). It features a modern, dark-mode interface with masonry grid layout and rich interactions.
+A premium note-taking application built with the MERN stack (MongoDB, Express, React, Node.js). It features a modern, dark-mode interface with masonry grid layout and rich interactions.
 
 ![Silver Notes Preview](https://via.placeholder.com/800x400?text=Silver+Notes+Preview)
 
@@ -68,5 +68,3 @@ npm run dev
 
 Open [http://localhost:5173](http://localhost:5173) to view the app!
 
-## License
-MIT
